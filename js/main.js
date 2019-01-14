@@ -1,3 +1,5 @@
+document.body.style.backgroundColor = "#efefef";
+
 // Book Class: Represents a Book
 class Book {
   constructor(title, author, isbn) {
